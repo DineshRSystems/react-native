@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">N-QiWiJMcxZsTQLPb4M2xr8Qb997U_DLuet--pKfXMo=</string>
+    <string name="api_secret">DTxaeQUmGySYhzE2yXiRC4CdfqLfLTY1qprY9-xluXY=</string>
+    <string name="pod_name">NA1</string>
+    <bool name="disable_api_filter">true</bool>
+    <bool name="enable_debug_logs">true</bool>
+    <bool name="disable_all_logs">false</bool>
+    <bool name="disable_caching">true</bool>
+</resources>
